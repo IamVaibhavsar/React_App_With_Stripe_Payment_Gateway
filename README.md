@@ -20,7 +20,7 @@ The `Stripe` payment dialog box will get open and it will ask you to fill in the
 
 Fill in the sample details like email ID, name, address, pincode, country etc.<br>
 
-![fillDetails](https://github.com/IamVaibhavsar/React_App_With_Stripe_Payment_Gateway/blob/master/images/sampleDetails.png "fillDetails")
+![fillDetails](https://github.com/IamVaibhavsar/React_App_With_Stripe_Payment_Gateway/blob/master/images/fillDetails.png "fillDetails")
 
 After filling the details, click on `payment info` Button. <br>
 
