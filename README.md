@@ -47,7 +47,9 @@ The backend source code of this project is present in `stripebackend/index.js` f
 
 The frontend source code of this project is present in `stripefrontend/src/App.js` file.<br>
 
-to run this project, First run the `index.js` file from the backend.<br>
+In both directories `/stripefrontend` and  `/stripebackend` run the command `npm install` to install the required dependencies and modules.<br>
+
+to run this project, First run the `index.js` file from the backend. <br>
 
 and then in another terminal, run the command `npm start` in the `/stripefrontend` directory.<br>
 
